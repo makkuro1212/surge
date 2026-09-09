@@ -1,37 +1,22 @@
-# ==============================
-# Google
-# ==============================
-
+# > Google
 DOMAIN,adservice.google.com
 DOMAIN-SUFFIX,googleadservices.com
 DOMAIN-SUFFIX,doubleclick.net
 
-
-# ==============================
-# Twitter / X
-# ==============================
-
+# > Twitter / X
 DOMAIN,static.ads-twitter.com
 
-
-# ==============================
-# Xiaomi
-# ==============================
-
+# > Xiaomi
 DOMAIN,miwifi.com
 DOMAIN,adx.v.mitvos.com
 DOMAIN-SUFFIX,ad.xiaomi.com
 DOMAIN-SUFFIX,cupid.ptqy.gitv.tv
 
-# ==============================
-# V2ex
-# ==============================
-
+# > Advertising Networks
+DOMAIN,ad-delivery.net
 DOMAIN,mistymeat.com
+DOMAIN,poweredby.jads.co
 DOMAIN,cdn.wwads.cn
 
-# ==============================
-# Other / Advertising Networks
-# ==============================
-
-DOMAIN,ad-delivery.net
+# > Apple
+# DOMAIN,gdmf.apple.com
