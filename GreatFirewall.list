@@ -1,5 +1,3 @@
-[Ruleset GreatFirewall]
-
 # > AI / OpenAI
 DOMAIN,unpkg.com
 DOMAIN,browser-intake-datadoghq.com
