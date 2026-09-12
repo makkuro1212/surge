@@ -217,6 +217,10 @@ DOMAIN-SUFFIX,tmdb.org
 # > Bloomberg
 DOMAIN-SUFFIX,bloomberg.com
 
+# > Linux.do
+DOMAIN-SUFFIX,linux.do
+DOMAIN-SUFFIX,ldstatic.com
+
 # > MEGA / Cloud Storage
 DOMAIN,mega.io
 DOMAIN,mega.nz
