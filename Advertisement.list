@@ -1,4 +1,5 @@
 # > Google
+DOMAIN,csp.withgoogle.com
 DOMAIN,adservice.google.com
 DOMAIN-SUFFIX,googleadservices.com
 DOMAIN-SUFFIX,doubleclick.net
