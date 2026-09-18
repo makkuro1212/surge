@@ -142,10 +142,6 @@ DOMAIN-SUFFIX,medium.com
 DOMAIN-SUFFIX,uscardforum.com
 DOMAIN-SUFFIX,substack.com
 DOMAIN-SUFFIX,v2ex.com
-DOMAIN-SUFFIX,v2ex.pro
-DOMAIN-SUFFIX,v2ex.co
-
-# > Imgur
 DOMAIN-SUFFIX,imgur.com
 
 # > Amazon
