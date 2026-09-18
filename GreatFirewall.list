@@ -15,76 +15,29 @@ DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,gravatar.com
 
-# > Google / YouTube
-DOMAIN,youtu.be
-DOMAIN,cdn.ampproject.org
-DOMAIN-SUFFIX,goo.gl
-DOMAIN-SUFFIX,gmail.com
-DOMAIN-SUFFIX,gstatic.com
-DOMAIN-SUFFIX,googleapis.com
-DOMAIN-SUFFIX,googleusercontent.com
-DOMAIN-SUFFIX,google.com
-DOMAIN-SUFFIX,google.co.jp
-DOMAIN-SUFFIX,google.co.uk
-DOMAIN-SUFFIX,google.com.hk
-DOMAIN-SUFFIX,ytimg.com
-DOMAIN-SUFFIX,ggpht.com
-DOMAIN-SUFFIX,googlevideo.com
-DOMAIN-SUFFIX,youtube.com
-DOMAIN-SUFFIX,youtube-nocookie.com
-DOMAIN-SUFFIX,telephony.goog
+# > Amazon
+DOMAIN-SUFFIX,amazontrust.com
+DOMAIN-SUFFIX,amazon.co.jp
+DOMAIN-SUFFIX,amazon.com
+DOMAIN-SUFFIX,amazonaws.com
 
-# > Reddit
-DOMAIN-SUFFIX,redditstatic.com
-DOMAIN-SUFFIX,redditmedia.com
-DOMAIN-SUFFIX,reddit.com
-DOMAIN-SUFFIX,redd.it
-DOMAIN-SUFFIX,redgifs.com
+# > Animation / Video / TV
+DOMAIN,www.xn--sss604efuw.net
+DOMAIN,www.dbku.tv
+DOMAIN-SUFFIX,dbkk.cc
+DOMAIN-SUFFIX,iyf.tv
+DOMAIN-SUFFIX,pipecdn.vip
+DOMAIN-SUFFIX,thetvdb.com
+DOMAIN-SUFFIX,themoviedb.org
+DOMAIN-SUFFIX,tmdb.org
 
-# > Twitter / X
-DOMAIN,t.co
-DOMAIN-SUFFIX,twitter.com
-DOMAIN-SUFFIX,twimg.com
-DOMAIN-SUFFIX,x.com
+# > BandwagonHost / VPS
+DOMAIN,bandwagonhost.com
+DOMAIN-SUFFIX,64clouds.com
+DOMAIN,bwhstats.com
 
-# > Facebook / Threads
-DOMAIN-SUFFIX,fbcdn.net
-DOMAIN-SUFFIX,facebook.com
-DOMAIN-SUFFIX,facebook.net
-DOMAIN-SUFFIX,threads.com
-
-# > Instagram / WhatsApp
-DOMAIN-SUFFIX,instagram.com
-DOMAIN-SUFFIX,cdninstagram.com
-DOMAIN-SUFFIX,whatsapp.net
-
-# > Telegram
-DOMAIN-SUFFIX,t.me
-DOMAIN-SUFFIX,telegram.org
-DOMAIN-SUFFIX,telesco.pe
-PROTOCOL,MTProto
-
-# > Discord
-DOMAIN-SUFFIX,discord.co
-DOMAIN-SUFFIX,discord.com
-DOMAIN-SUFFIX,discord.gg
-DOMAIN-SUFFIX,discord.media
-DOMAIN-SUFFIX,discordapp.com
-DOMAIN-SUFFIX,discordapp.net
-
-# > Naver
-DOMAIN-SUFFIX,naver.com
-DOMAIN-SUFFIX,naver.net
-DOMAIN-SUFFIX,naver.me
-DOMAIN-SUFFIX,navercorp.com
-DOMAIN-SUFFIX,pstatic.net
-
-# > Yahoo
-DOMAIN,app.adjust.com
-DOMAIN-SUFFIX,yahoo.co.jp
-DOMAIN-SUFFIX,yahooapis.jp
-DOMAIN-SUFFIX,storage-yahoo.jp
-DOMAIN-SUFFIX,yimg.jp
+# > Bloomberg
+DOMAIN-SUFFIX,bloomberg.com
 
 # > CDN / Cloud / Web Infrastructure
 DOMAIN-SUFFIX,bootstrapcdn.com
@@ -95,66 +48,6 @@ DOMAIN-SUFFIX,jsdelivr.net
 DOMAIN-SUFFIX,workers.dev
 DOMAIN-SUFFIX,onetrust.com
 DOMAIN-SUFFIX,cdn77.org
-
-# > Security / Privacy / Captcha
-DOMAIN,www.recaptcha.net
-DOMAIN-SUFFIX,safebrowsing.googleapis.com
-DOMAIN-SUFFIX,token.safebrowsing.apple
-
-# > GitHub / GitLab / CI
-DOMAIN-SUFFIX,github.io
-DOMAIN-SUFFIX,github.com
-DOMAIN-SUFFIX,githubassets.com
-DOMAIN-SUFFIX,githubusercontent.com
-DOMAIN-SUFFIX,githubcopilot.com
-DOMAIN-SUFFIX,travis-ci.com
-DOMAIN-SUFFIX,gitlab.com
-
-# > Docker
-DOMAIN-SUFFIX,docker.io
-DOMAIN-SUFFIX,docker.com
-
-# > Stack Overflow
-DOMAIN-SUFFIX,stackoverflow.com
-DOMAIN,cdn.sstatic.net
-
-# > Intercom
-DOMAIN-SUFFIX,intercomcdn.com
-DOMAIN-SUFFIX,intercom.io
-
-# > Tampermonkey
-DOMAIN-SUFFIX,greasyfork.org
-DOMAIN-SUFFIX,sleazyfork.org
-
-# > Wikipedia
-DOMAIN-SUFFIX,wikipedia.org
-DOMAIN-SUFFIX,wikimedia.org
-
-# > WordPress
-DOMAIN-SUFFIX,wp.com
-
-# > Oxford Dictionaries
-DOMAIN-SUFFIX,oxfordlearnersdictionaries.com
-DOMAIN-SUFFIX,html-load.com
-
-# > Medium / Substack / Forums
-DOMAIN-SUFFIX,medium.com
-DOMAIN-SUFFIX,uscardforum.com
-DOMAIN-SUFFIX,substack.com
-DOMAIN-SUFFIX,v2ex.com
-DOMAIN-SUFFIX,imgur.com
-
-# > Amazon
-DOMAIN-SUFFIX,amazontrust.com
-DOMAIN-SUFFIX,amazon.co.jp
-DOMAIN-SUFFIX,amazon.com
-DOMAIN-SUFFIX,amazonaws.com
-
-# > Finance / Brokerage
-DOMAIN-SUFFIX,interactivebrokers.com
-DOMAIN-SUFFIX,go-mpulse.net
-DOMAIN-SUFFIX,longbridge.com
-DOMAIN-SUFFIX,longbridge.global
 
 # > Crypto / Blockchain
 DOMAIN-SUFFIX,binance.com
@@ -181,6 +74,138 @@ DOMAIN-SUFFIX,walletconnect.com
 DOMAIN-SUFFIX,kraken.com
 DOMAIN,kraken.zendesk.com
 
+# > Discord
+DOMAIN-SUFFIX,discord.co
+DOMAIN-SUFFIX,discord.com
+DOMAIN-SUFFIX,discord.gg
+DOMAIN-SUFFIX,discord.media
+DOMAIN-SUFFIX,discordapp.com
+DOMAIN-SUFFIX,discordapp.net
+
+# > Docker
+DOMAIN-SUFFIX,docker.io
+DOMAIN-SUFFIX,docker.com
+
+# > Facebook / Threads
+DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-SUFFIX,facebook.com
+DOMAIN-SUFFIX,facebook.net
+DOMAIN-SUFFIX,threads.com
+
+# > Finance / Brokerage
+DOMAIN-SUFFIX,interactivebrokers.com
+DOMAIN-SUFFIX,go-mpulse.net
+DOMAIN-SUFFIX,longbridge.com
+DOMAIN-SUFFIX,longbridge.global
+
+# > GitHub / GitLab / CI
+DOMAIN-SUFFIX,github.io
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,githubassets.com
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,githubcopilot.com
+DOMAIN-SUFFIX,travis-ci.com
+DOMAIN-SUFFIX,gitlab.com
+
+# > Google / YouTube
+DOMAIN,youtu.be
+DOMAIN,cdn.ampproject.org
+DOMAIN-SUFFIX,goo.gl
+DOMAIN-SUFFIX,gmail.com
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,googleusercontent.com
+DOMAIN-SUFFIX,google.com
+DOMAIN-SUFFIX,google.co.jp
+DOMAIN-SUFFIX,google.co.uk
+DOMAIN-SUFFIX,google.com.hk
+DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,ggpht.com
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,youtube-nocookie.com
+DOMAIN-SUFFIX,telephony.goog
+
+# > Instagram / WhatsApp
+DOMAIN-SUFFIX,instagram.com
+DOMAIN-SUFFIX,cdninstagram.com
+DOMAIN-SUFFIX,whatsapp.net
+
+# > Intercom
+DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,intercom.io
+
+# > Linux.do
+DOMAIN-SUFFIX,linux.do
+DOMAIN-SUFFIX,ldstatic.com
+
+# > Mapbox / Maps
+DOMAIN-SUFFIX,mapbox.com
+
+# > Medium / Substack / Forums
+DOMAIN-SUFFIX,medium.com
+DOMAIN-SUFFIX,uscardforum.com
+DOMAIN-SUFFIX,substack.com
+DOMAIN-SUFFIX,v2ex.com
+DOMAIN-SUFFIX,imgur.com
+
+# > MEGA / Cloud Storage
+DOMAIN,mega.io
+DOMAIN,mega.nz
+DOMAIN-SUFFIX,mega.co.nz
+DOMAIN-SUFFIX,archive.org
+
+# > Naver
+DOMAIN-SUFFIX,naver.com
+DOMAIN-SUFFIX,naver.net
+DOMAIN-SUFFIX,naver.me
+DOMAIN-SUFFIX,navercorp.com
+DOMAIN-SUFFIX,pstatic.net
+
+# > Oxford Dictionaries
+DOMAIN-SUFFIX,oxfordlearnersdictionaries.com
+DOMAIN-SUFFIX,html-load.com
+
+# > Porn
+DOMAIN,img.boomboomboom.ggff.net
+DOMAIN-SUFFIX,91porn.com
+DOMAIN-SUFFIX,btc620.com
+
+# > Rakuten
+DOMAIN-SUFFIX,rakuten.com
+DOMAIN-SUFFIX,rakuten.co.jp
+
+# > Reddit
+DOMAIN-SUFFIX,redditstatic.com
+DOMAIN-SUFFIX,redditmedia.com
+DOMAIN-SUFFIX,reddit.com
+DOMAIN-SUFFIX,redd.it
+DOMAIN-SUFFIX,redgifs.com
+
+# > Security / Privacy / Captcha
+DOMAIN,www.recaptcha.net
+DOMAIN-SUFFIX,safebrowsing.googleapis.com
+DOMAIN-SUFFIX,token.safebrowsing.apple
+
+# > Stack Overflow
+DOMAIN-SUFFIX,stackoverflow.com
+DOMAIN,cdn.sstatic.net
+
+# > Surge
+DOMAIN,surge.mitsea.com
+DOMAIN-SUFFIX,nssurge.com
+DOMAIN-SUFFIX,surge-activation.com
+
+# > Tampermonkey
+DOMAIN-SUFFIX,greasyfork.org
+DOMAIN-SUFFIX,sleazyfork.org
+
+# > Telegram
+DOMAIN-SUFFIX,t.me
+DOMAIN-SUFFIX,telegram.org
+DOMAIN-SUFFIX,telesco.pe
+PROTOCOL,MTProto
+
 # > Travel / Airlines / Hotels
 DOMAIN-SUFFIX,alaskaair.net
 DOMAIN-SUFFIX,alaskaair.com
@@ -195,47 +220,24 @@ DOMAIN-SUFFIX,tripadvisor.com
 DOMAIN,seatmaps.com
 DOMAIN-SUFFIX,jets.kwiket.com
 
-# > Rakuten
-DOMAIN-SUFFIX,rakuten.com
-DOMAIN-SUFFIX,rakuten.co.jp
+# > Twitter / X
+DOMAIN,t.co
+DOMAIN-SUFFIX,twitter.com
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,x.com
 
-# > Mapbox / Maps
-DOMAIN-SUFFIX,mapbox.com
+# > Wikipedia
+DOMAIN-SUFFIX,wikipedia.org
+DOMAIN-SUFFIX,wikimedia.org
 
-# > Animation / Video / TV
-DOMAIN,www.xn--sss604efuw.net
-DOMAIN,www.dbku.tv
-DOMAIN-SUFFIX,dbkk.cc
-DOMAIN-SUFFIX,iyf.tv
-DOMAIN-SUFFIX,pipecdn.vip
-DOMAIN-SUFFIX,thetvdb.com
-DOMAIN-SUFFIX,themoviedb.org
-DOMAIN-SUFFIX,tmdb.org
+# > WordPress
+DOMAIN-SUFFIX,wp.com
 
-# > Bloomberg
-DOMAIN-SUFFIX,bloomberg.com
+# > Yahoo
+DOMAIN,app.adjust.com
+DOMAIN-SUFFIX,yahoo.co.jp
+DOMAIN-SUFFIX,yahooapis.jp
+DOMAIN-SUFFIX,storage-yahoo.jp
+DOMAIN-SUFFIX,yimg.jp
 
-# > Linux.do
-DOMAIN-SUFFIX,linux.do
-DOMAIN-SUFFIX,ldstatic.com
 
-# > MEGA / Cloud Storage
-DOMAIN,mega.io
-DOMAIN,mega.nz
-DOMAIN-SUFFIX,mega.co.nz
-DOMAIN-SUFFIX,archive.org
-
-# > BandwagonHost / VPS
-DOMAIN,bandwagonhost.com
-DOMAIN-SUFFIX,64clouds.com
-DOMAIN,bwhstats.com
-
-# > Surge
-DOMAIN,surge.mitsea.com
-DOMAIN-SUFFIX,nssurge.com
-DOMAIN-SUFFIX,surge-activation.com
-
-# > Porn
-DOMAIN,img.boomboomboom.ggff.net
-DOMAIN-SUFFIX,91porn.com
-DOMAIN-SUFFIX,btc620.com
