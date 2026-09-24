@@ -147,6 +147,7 @@ DOMAIN-SUFFIX,uscardforum.com
 DOMAIN-SUFFIX,substack.com
 DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,imgur.com
+DOMAIN-SUFFIX,cardart.cc
 
 # > MEGA / Cloud Storage
 DOMAIN,mega.io
