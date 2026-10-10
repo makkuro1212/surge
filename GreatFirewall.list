@@ -225,6 +225,9 @@ DOMAIN,t.co
 DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,x.com
+DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,cursorvm.com
+DOMAIN-SUFFIX,grok.com
 
 # > Wikipedia
 DOMAIN-SUFFIX,wikipedia.org
