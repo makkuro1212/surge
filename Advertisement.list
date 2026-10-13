@@ -6,6 +6,7 @@ DOMAIN-SUFFIX,doubleclick.net
 
 # > Twitter / X
 DOMAIN,static.ads-twitter.com
+DOMAIN,app-analytics-services.com
 
 # > Xiaomi
 DOMAIN,miwifi.com
