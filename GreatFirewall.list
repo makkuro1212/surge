@@ -124,6 +124,7 @@ DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,youtube-nocookie.com
 DOMAIN-SUFFIX,telephony.goog
+DOMAIN-SUFFIX,returnyoutubedislikeapi.com
 
 # > Instagram / WhatsApp
 DOMAIN-SUFFIX,instagram.com
