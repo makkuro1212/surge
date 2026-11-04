@@ -11,6 +11,7 @@ DOMAIN,app-analytics-services.com
 # > Xiaomi
 DOMAIN,miwifi.com
 DOMAIN,adx.v.mitvos.com
+DOMAIN,proxy.v.mitvos.com
 DOMAIN-SUFFIX,ad.xiaomi.com
 DOMAIN-SUFFIX,cupid.ptqy.gitv.tv
 
