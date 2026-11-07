@@ -23,3 +23,10 @@ DOMAIN,poweredby.jads.co
 # > V2ex
 DOMAIN,cid.v2ex.pro
 DOMAIN,cdn.wwads.cn
+
+# > Bilibili
+DOMAIN-WILDCARD,*pcdn*.biliapi.net
+DOMAIN-SUFFIX,mcdn.bilivideo.cn
+DOMAIN-SUFFIX,mcdn.bilivideo.com
+DOMAIN-SUFFIX,szbdyd.com
+DOMAIN-SUFFIX,mountaintoys.cn
