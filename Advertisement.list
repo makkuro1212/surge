@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,googleadservices.com
 DOMAIN-SUFFIX,doubleclick.net
 
 # > Twitter / X
+DOMAIN,ads-api.x.com
 DOMAIN,static.ads-twitter.com
 DOMAIN,app-analytics-services.com
 
