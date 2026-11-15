@@ -1,7 +1,6 @@
 # > AI / OpenAI
 DOMAIN,unpkg.com
 DOMAIN,browser-intake-datadoghq.com
-DOMAIN-SUFFIX,prodregistryv2.org
 DOMAIN-SUFFIX,livekit.cloud
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,openai.com
@@ -34,7 +33,6 @@ DOMAIN-SUFFIX,tmdb.org
 # > BandwagonHost / VPS
 DOMAIN,bandwagonhost.com
 DOMAIN-SUFFIX,64clouds.com
-DOMAIN,bwhstats.com
 
 # > Bloomberg
 DOMAIN-SUFFIX,bloomberg.com
@@ -47,7 +45,6 @@ DOMAIN-SUFFIX,cloudflareinsights.com
 DOMAIN-SUFFIX,jsdelivr.net
 DOMAIN-SUFFIX,workers.dev
 DOMAIN-SUFFIX,onetrust.com
-DOMAIN-SUFFIX,cdn77.org
 
 # > Crypto / Blockchain
 DOMAIN-SUFFIX,binance.com
@@ -151,7 +148,6 @@ DOMAIN-SUFFIX,esm.sh
 DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,v2core.com
 DOMAIN-SUFFIX,imgur.com
-DOMAIN-SUFFIX,cardart.cc
 
 # > MEGA / Cloud Storage
 DOMAIN,mega.io
@@ -169,11 +165,6 @@ DOMAIN-SUFFIX,pstatic.net
 # > Oxford Dictionaries
 DOMAIN-SUFFIX,oxfordlearnersdictionaries.com
 DOMAIN-SUFFIX,html-load.com
-
-# > Porn
-DOMAIN,img.boomboomboom.ggff.net
-DOMAIN-SUFFIX,91porn.com
-DOMAIN-SUFFIX,btc620.com
 
 # > Rakuten
 DOMAIN-SUFFIX,rakuten.com
