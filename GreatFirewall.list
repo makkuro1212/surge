@@ -1,19 +1,3 @@
-# > AI / OpenAI
-DOMAIN,unpkg.com
-DOMAIN,browser-intake-datadoghq.com
-DOMAIN-SUFFIX,livekit.cloud
-DOMAIN-SUFFIX,chatgpt.com
-DOMAIN-SUFFIX,openai.com
-DOMAIN-SUFFIX,oaistatic.com
-DOMAIN-SUFFIX,oaiusercontent.com
-DOMAIN-SUFFIX,featuregates.org
-DOMAIN-SUFFIX,featureassets.org
-DOMAIN-SUFFIX,statsigapi.net
-DOMAIN-SUFFIX,statsig.com
-DOMAIN-SUFFIX,auth0.com
-DOMAIN-SUFFIX,sentry.io
-DOMAIN-SUFFIX,gravatar.com
-
 # > Amazon
 DOMAIN-SUFFIX,amazontrust.com
 DOMAIN-SUFFIX,amazon.co.jp
@@ -45,31 +29,6 @@ DOMAIN-SUFFIX,cloudflareinsights.com
 DOMAIN-SUFFIX,jsdelivr.net
 DOMAIN-SUFFIX,workers.dev
 DOMAIN-SUFFIX,onetrust.com
-
-# > Crypto / Blockchain
-DOMAIN-SUFFIX,binance.com
-DOMAIN-SUFFIX,binance.cloud
-DOMAIN-SUFFIX,binance.info
-DOMAIN-SUFFIX,binancezh.info
-DOMAIN-SUFFIX,binance.me
-DOMAIN-SUFFIX,bntrace.com
-DOMAIN-SUFFIX,bnbstatic.com
-DOMAIN-SUFFIX,binancecnt.com
-DOMAIN-SUFFIX,bnappweb.biz
-DOMAIN-SUFFIX,cookielaw.org
-DOMAIN-SUFFIX,saasexch.com
-DOMAIN-SUFFIX,saasexch.co
-DOMAIN-SUFFIX,saasexch.io
-DOMAIN-SUFFIX,saasexch.cc
-DOMAIN-SUFFIX,nftstatic.com
-DOMAIN-SUFFIX,mokexapp.io
-DOMAIN-SUFFIX,saasexch.info
-DOMAIN-SUFFIX,pancakeswap.info
-DOMAIN-SUFFIX,pancakeswap.com
-DOMAIN-SUFFIX,pcswap.org
-DOMAIN-SUFFIX,walletconnect.com
-DOMAIN-SUFFIX,kraken.com
-DOMAIN,kraken.zendesk.com
 
 # > Discord
 DOMAIN-SUFFIX,discord.co
@@ -237,5 +196,3 @@ DOMAIN-SUFFIX,yahoo.co.jp
 DOMAIN-SUFFIX,yahooapis.jp
 DOMAIN-SUFFIX,storage-yahoo.jp
 DOMAIN-SUFFIX,yimg.jp
-
-
