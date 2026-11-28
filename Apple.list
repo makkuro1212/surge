@@ -1,0 +1,10 @@
+# > Notification
+DOMAIN,identity.apple.com
+DOMAIN-SUFFIX,push.apple.com
+
+# > Podcasts
+DOMAIN-SUFFIX,fm
+DOMAIN,prefix.up.audio
+DOMAIN,bookkeeper.itunes.apple.com
+DOMAIN,entitlements-edge.itunes.apple.com
+DOMAIN-SUFFIX,podcasts.apple.com
